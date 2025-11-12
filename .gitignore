@@ -1,4 +1,11 @@
-**/*.DS_Store
-myenv
-bin
+# macOS
+**/.DS_Store
+
+# Python virtual environments
+myenv/
+bin/
+
+# Python cache files
+__pycache__/
 **/__pycache__/
+*.py[cod]
