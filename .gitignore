@@ -1,4 +1,4 @@
 **/*.DS_Store
 myenv
 bin
-**/*.pyc
+**/__pycache__/
